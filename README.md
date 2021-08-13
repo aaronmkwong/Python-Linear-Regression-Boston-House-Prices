@@ -11,7 +11,7 @@ The best performing model had the following average results.
 
 When the polynomial features are added there are 20 in total, i.e 5 original, 5 original<sup>2</sup> and 10 pair subsets as well as the constant.
 
-RM (x0): average number of rooms per dwelling \n
+RM (x0): average number of rooms per dwelling <br/>
 DIS (x1): weighted distances to five Boston employment centres
 TAX (x2): full-value property-tax rate per $10,000
 PTRATIO (x3): pupil-teacher ratio by town
