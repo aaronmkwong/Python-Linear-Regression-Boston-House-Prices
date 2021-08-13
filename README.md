@@ -47,7 +47,7 @@ create_subset() returns a list of list of features for input back into feature_s
 
 For this project, I wanted the insights of **_data exploration_** summarized and avoid the cognitive load of working with visualizations. summary_stats() tells me I have no missing data, all features (including categorical) are numerical and which features correlate strongest with the target and themselves without irrelevant and duplicated values as seen in the correlation matrix. 
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics.JPG">
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics_B.JPG">
 
 The **_model results_** show that while the best performing model initially had a lower RMSE, after 100 experiments it generalized well while the other likely suffered from overfitting. 
 
