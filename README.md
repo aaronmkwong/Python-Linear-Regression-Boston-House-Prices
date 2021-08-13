@@ -9,4 +9,4 @@ The best performing model had the following average results.
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_results.JPG" width="400" height="60">
 
-The model had 20 features in total, i.e 5 original, 5 original<sup>2<sup> and 10 pair subsets.
+The model had 20 features in total, i.e 5 original, 5 original<sup>2<sub> and 10 pair subsets.
