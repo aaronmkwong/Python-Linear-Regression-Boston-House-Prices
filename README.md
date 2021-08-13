@@ -11,10 +11,11 @@ The best performing model had the following average results.
 
 When the polynomial features are added there are 20 in total, i.e 5 original, 5 original<sup>2</sup> and 10 pair subsets as well as the constant.
 
+1, x0, x1, x2, x3, x4, x0<sup>2</sup>, x0x1, x0x2, x0x3, x0x4, x1<sup>2</sup>, x1x2,  x1x3, x1x4, x2<sup>2</sup>, x2x3, x2x4, x3<sup>2</sup>, x3x4, x4<sup>2</sup>
+
 RM (x0): average number of rooms per dwelling <br/>
-DIS (x1): weighted distances to five Boston employment centres
-TAX (x2): full-value property-tax rate per $10,000
-PTRATIO (x3): pupil-teacher ratio by town
+DIS (x1): weighted distances to five Boston employment centres <br/>
+TAX (x2): full-value property-tax rate per $10,000 <br/>
+PTRATIO (x3): pupil-teacher ratio by town <br/>
 LSTAT (x4): % lower status of the population
 
-1, x0, x1, x2, x3, x4, x0<sup>2</sup>, x0x1, x0x2, x0x3, x0x4, x1<sup>2</sup>, x1x2,  x1x3, x1x4, x2<sup>2</sup>, x2x3, x2x4, x3<sup>2</sup>, x3x4, x4<sup>2</sup>
