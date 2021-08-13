@@ -49,7 +49,7 @@ For this project, I wanted the insights of **_data exploration_** summarized and
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics_B.JPG">
 
-The **_model results_** show that while BPM initially had a lower RMSE (left table), after 100 experiments (right table) it generalized well while the other likely suffered from overfitting. Of note, unlike the other, BPM did not contain the highest correlated feature pair TAX_RAD (0.91), but did contain AGE_DIS (-0.75), LSTAT_RM (-0.61), so the presence of multicollinearity may still exist.
+The **_model results_** show that while BPM initially had a lower RMSE (left table), after 100 experiments (right table) it generalized well whereas the other likely suffered from overfitting. Of note, unlike the other, BPM did not contain the highest correlated feature pair TAX_RAD (0.91), but did contain AGE_DIS (-0.75), LSTAT_RM (-0.61), so the presence of multicollinearity may still exist.
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/04_model_results.JPG">
 
