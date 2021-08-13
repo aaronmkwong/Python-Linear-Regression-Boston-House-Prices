@@ -49,7 +49,7 @@ For this project, I wanted the insights of **_data exploration_** summarized and
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics_B.JPG">
 
-The **_model results_** show that while the best performing model initially had a lower RMSE, after 100 experiments it generalized well while the other likely suffered from overfitting. 
+The **_model results_** show that while the best performing model initially had a lower RMSE (left table), after 100 experiments (right table) it generalized well while the other likely suffered from overfitting. 
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/04_model_results.JPG">
 
