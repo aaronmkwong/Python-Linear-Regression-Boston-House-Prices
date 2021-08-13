@@ -18,7 +18,9 @@ TAX (x2): full-value property-tax rate per $10,000 <br/>
 PTRATIO (x3): pupil-teacher ratio by town <br/>
 LSTAT (x4): % lower status of the population
 
-This is a somewhat brute force approach. But as a first look at the Boston House Prices dataset, I wanted the project to be as much of an exercise in writing and reusing functions as a statistical learning exercise.    
+This is a somewhat brute force approach. But as a first look at the Boston House Prices dataset, I wanted the project to be as much of an exercise in writing and reusing functions as a statistical learning exercise. 
+
+A description of the history and source of the dataset can be viewed here as per the sklearn library.      
 
 **WALKTHROUGH**
 
