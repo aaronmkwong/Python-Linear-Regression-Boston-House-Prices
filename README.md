@@ -43,4 +43,4 @@ arg8 (float): portion of records for testing (multiplied to total, rounded whole
 
 create_subset() returns a list of list of features for input back into feature_select() function in order to run multiple trials, with a series as the only argument.
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics.JPG" width="300" height="400">
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics.JPG" width="600" height="400">
