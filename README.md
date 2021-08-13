@@ -24,7 +24,7 @@ A description of the history and source of the dataset can be viewed **[here](ht
 
 **WALKTHROUGH**
 
-The code can be viewed **[here](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Program%20Files/Boston_House_Prices_06.ipynb)**.
+The code can be viewed **[here](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Program%20Files/Boston_House_Prices_06B.ipynb)**.
 
 There are 3 custom written **_functions_** for this project. 
 
