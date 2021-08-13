@@ -21,3 +21,23 @@ LSTAT (x4): % lower status of the population
 This is a somewhat brute force approach. But as a first look at the Boston House Prices dataset, I wanted the project to be as much of an exercise in writing and reusing functions as a statistical learning exercise.    
 
 **WALKTHROUGH**
+
+The code can be viewed
+
+There are 3 custom written functions for this project. 
+
+summary_stats() returns data exploration statistics using pandas .describe() and adds to it data types, null count, target correlation and feature correlation (multicollinearity check); arguments include dataframe, features (list) and target name (str).   
+
+feature_select() returns a dataframe of all model experiment results with the following arguments.
+
+arg1 (dataframe): not compatible with time series data <br/>
+arg2 (list): feature column names as a list of strings (or list of list depending on agr3 inputs) <br/>
+arg3 (int): choice 1 (create subset) or 2 (do not subset) or 3 (use predetermined subset) <br/>
+arg4 (str): target colum name as a string <br/>
+arg5 (int): choice 1 (yes) or 2 (no) or 3 (both) to add polynomial transformed (including interaction) features <br/>
+arg6 (int): polynomial transformation degrees of freedom; recommend 2 only <br/>
+arg7 (int): number of trials; test data is randomized each trial <br/>
+arg8 (float): portion of records for testing (multiplied to total, rounded whole number);  recommended 0.3 <br/>
+
+create_subset() returns a list of list of features for input back into feature_select() function in order to run multiple trials, with a series as the only argument.
+
