@@ -45,7 +45,7 @@ arg8 (float): portion of records for testing (multiplied to total, rounded whole
 
 create_subset() returns a list of list of features for input back into feature_select() function in order to run multiple trials, with a series as the only argument.
 
-For this project, I wanted the insights of **_data exploration_** summarized and avoid the cognitive load of working with visualizations. summary_stats() tells me all features (including categorical) are numerical, I have no missing data and which features correlate strongest with the target and themselves without irrelevant and duplicated values as seen in the correlation matrix. 
+For this project, I wanted the insights of **_data exploration_** summarized and avoid the cognitive load of working with visualizations. summary_stats() tells me all features (including categorical) are numerical, I have no missing data, distribution and which features correlate strongest with the target and themselves without irrelevant and duplicated values as seen in the correlation matrix. 
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/03_summary_statistics_B.JPG">
 
