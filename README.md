@@ -6,7 +6,7 @@ This project performs linear regression modeling for all feature subsets with an
 
 The **_best performing model_** had the following average results, which I would consider good but not great, and the project would benefit from more advanced techniques and in-depth testing in future versions.   
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_results.JPG" width="400" height="60">
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_result.JPG" width="400" height="60">
 
 When the polynomial features are added there are 20 in total, i.e 5 original, 5 original<sup>2</sup> and 10 ( n(n-1)/2 ) pair subsets as well as the constant.
 
