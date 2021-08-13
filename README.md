@@ -53,3 +53,8 @@ The **_model results_** show that while BPM initially had a lower RMSE (left tab
 
 <img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/04_model_results.JPG">
 
+For the sake of **_model explainability_** I randomized and split the dataframe itself (rather than using sklearn train_test_split) and retained the original index as a column so I could track the original test data to the model predictors and predictions. 
+
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/05_model_interpretation.JPG">
+
+
