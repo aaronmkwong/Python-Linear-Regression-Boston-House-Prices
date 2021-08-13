@@ -7,5 +7,5 @@ This project performs linear regression modeling for all feature subsets with an
 
 The best performing model had the following the average results over 100 trials:
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_results.JPG" width="500" height="75">
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_results.JPG" width="400" height="60">
 
