@@ -59,5 +59,5 @@ For the sake of **_model explainability_** I randomized and split the dataframe 
 
 Finally for some quick **_model error testing_** I plotted actuals versus predictions and created a histogram. While the scatter plot is far from a straight line and the distribution shows some skew, generally the visualizations appear to be consistent with the previous model results.       
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/06_model_error_testing.JPG" width="800" height="300">
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/06_model_error_testing.JPG" width="700" height="250">
 
