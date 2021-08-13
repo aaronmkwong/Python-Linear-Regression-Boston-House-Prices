@@ -26,7 +26,7 @@ A description of the history and source of the dataset can be viewed **[here](ht
 
 The code can be viewed **[here](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Program%20Files/Boston_House_Prices_06.ipynb)**.
 
-There are 3 custom written functions for this project. 
+There are 3 custom written **_functions_** for this project. 
 
 summary_stats() returns data exploration statistics using pandas .describe() and adds to it data types, null count, target correlation and feature correlation (multicollinearity check); arguments include dataframe, features (list) and target name (str).   
 
