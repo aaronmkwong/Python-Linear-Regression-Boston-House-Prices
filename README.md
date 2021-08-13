@@ -22,7 +22,7 @@ This is a somewhat brute force approach. But as a first look at the Boston House
 
 **WALKTHROUGH**
 
-The code can be viewed
+The code can be viewed **[here](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Program%20Files/Boston_House_Prices_06.ipynb)**.
 
 There are 3 custom written functions for this project. 
 
